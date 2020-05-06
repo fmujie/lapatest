@@ -1,0 +1,17 @@
+{
+    "name": "19353/lapackagetest",
+    "description": "test laravel packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fmujie",
+            "email": "1935377905@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fmujie\\Lapackagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
